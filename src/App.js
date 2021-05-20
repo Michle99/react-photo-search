@@ -21,7 +21,7 @@ setResult(response.data.results);
 return (
 <div className="app">
  <div className="heading">
-   <h1>React Image Search Using Unsplash API.</h1>
+   <h1>React Photo Search Using Unsplash API</h1>
  </div>
  
  <div className="input">
